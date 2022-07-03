@@ -8,6 +8,7 @@ license = "MIT"
 catogories = ["command-line-utilityies"]
 authors = ["Owlly"]
 repository = "https://gihub.com/mr-owllers/green-tea"
+homepage = "https://mr-owllers.github.io/pages/green-tea.html"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
