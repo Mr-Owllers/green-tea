@@ -1,4 +1,4 @@
-# 🍵 `Green Tea`
+# 🍵 `Green-Tea`
 
 a simple cli that keeps your screen awake
 
